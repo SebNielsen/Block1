@@ -1,0 +1,8 @@
+Explain what happens?
+Når begge tråde kalder metoden next() er der risiko for at den ene når at tælle 
+1 op, imens den anden læser. Dette medfører at de overskriver hinanden eller at
+der opstår et ulige tal.
+
+How common is the problem?
+Skulle kører et loop 10.000 gange for at få problemet til at opstå, så det er ikke
+nødvendigvis noget der sker hver gang.   

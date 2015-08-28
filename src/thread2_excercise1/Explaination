@@ -1,0 +1,3 @@
+Explain the results?
+Beregningen er selvfølgelig væsentlige hurtigere ved paralel ekskevering end ved
+sekventiel hvor trådende venter på at de hver især bliver færdige.

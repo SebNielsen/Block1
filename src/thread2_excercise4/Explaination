@@ -1,0 +1,3 @@
+Does the program behave as expected?
+Ja de låser hver især deres metode, og kan ikke komme videre idet de venter på
+at den bliver færdig og låser op.
